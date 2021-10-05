@@ -38,7 +38,7 @@ python3 -u main.py $CASE_NO $NOISE_MAG $N_ENS $N_SPORADIC $EQN $IF_SIMULATION $I
 ```
 where, 
 
-- CASE_NO(type: integer) is the case number [to do: change case numbers as they appear in the paper)
+- CASE_NO (type: integer) is the case number [to do: change case numbers as they appear in the paper)
 
 - NOISE_MAG (type: real/float) is the standard deviation of the noise ratio (std of noise to std of singal at each time step)
 
