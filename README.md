@@ -38,19 +38,19 @@ python3 -u main.py $CASE_NO $NOISE_MAG $N_ENS $N_SPORADIC $EQN $IF_SIMULATION $I
 ```
 where, 
 
-CASE_NO(type: integer) is the case number [to do: change case numbers as they appear in the paper)
+	- CASE_NO(type: integer) is the case number [to do: change case numbers as they appear in the paper)
 
-NOISE_MAG (type: real/float) is the standard deviation of the noise ratio (std of noise to std of singal at each time step)
+	- NOISE_MAG (type: real/float) is the standard deviation of the noise ratio (std of noise to std of singal at each time step)
 
-N_ENS (type: integer) is the size of ensembles (number of the ensemble members) 
+	- N_ENS (type: integer) is the size of ensembles (number of the ensemble members) 
 
-N_SPORADIC (type: integer) is the number of time-steps between each sample pair
+	- N_SPORADIC (type: integer) is the number of time-steps between each sample pair
 
-EQN (type: string) type of the (imperect) model equation: "KS" for KS, "KSpu3x" for KS+c_4 'u_{xxx}'$ KSpu3x_Du3 for KS + c_4 $'u^2u_{x}'$
+	- EQN (type: string) type of the (imperect) model equation: "KS" for KS, "KSpu3x" for KS+c_4 'u_{xxx}'$ KSpu3x_Du3 for KS + c_4 $'u^2u_{x}'$
 
-IF_SIMULATION (type: boolean) is set to TRUE for generating the ensembles and running the imperect model (otherwise FALSE)
+	- IF_SIMULATION (type: boolean) is set to TRUE for generating the ensembles and running the imperect model (otherwise FALSE)
 
-IF_RVM (type: boolean) is set to TRUE to run RVM to discover the missing physics (otherwise FALSE; set to TRUE if IF_SIMULATION==TRUE or the corresponding saved files exists )
+	- IF_RVM (type: boolean) is set to TRUE to run RVM to discover the missing physics (otherwise FALSE; set to TRUE if IF_SIMULATION==TRUE or the corresponding saved files exists )
 
 
 Example: Only run RVM on (already generated data files) case number 1 with 1% noise with $N/M=100$ sampling every 10000 time steps, where the imperfect model is of KS type
