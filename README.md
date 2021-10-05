@@ -58,6 +58,8 @@ Example: Only run RVM on (already generated data files) case number 1 with 1% no
 python3 -u main.py 1 0.01 10240 10000 KS False True
 ```
 
+Note: [Download](https://rice.box.com/s/3a29sejqyc8ou96ncfrddzo7spncwet4), extract, and include "KS.pkl" in [./experiments/KS/save](./experiments/KS/save)  
+
 ## Citation
 
 - \[1\] [Mojgani, R.](https://www.rmojgani.com), [Chattopadhyay, A.](https://scholar.google.com/citations?user=wtHkCRIAAAAJ&hl=en) and [Hassanzadeh, P.
