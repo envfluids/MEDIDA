@@ -53,7 +53,7 @@ where,
 - IF_RVM (type: boolean) is set to TRUE to run RVM to discover the missing physics (otherwise FALSE; set to TRUE if IF_SIMULATION==TRUE or the corresponding saved files exists )
 
 
-Example: Only run RVM on (already generated data files) case number 1 with 1% noise with $N/M=00$ sampling once (one pair) every 10,000 time steps, where the imperfect model is of KS type
+Example: Only run RVM on (already generated data files) case number 1 with 1% noise with $N=10M=10240$ sampling once (one pair) every 10,000 time steps, where the imperfect model is of KS type
 ```
 python3 -u main.py 1 0.01 10240 10000 KS False True
 ```
