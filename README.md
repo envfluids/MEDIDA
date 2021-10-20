@@ -1,6 +1,6 @@
 # MEDIDA: Model Error Discovery with Interpretability and Data Assimilation
 
-#### [[project website]](http://www.rmojgani.com)
+#### [[Developer's website]](http://www.rmojgani.com)
 <img src="docs/MEDIDA.gif" width="75%">
 
 ## Table of contents
