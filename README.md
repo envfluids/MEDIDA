@@ -70,7 +70,7 @@ arXiv:2110.00546.
 @article{Mojgani_arxiv_2021,
 	author={Mojgani, Rambod, Chattopadhyay, Ashesh, and Hassanzadeh, Pedram},
 	title={Closed-form discovery of structural errors in models of 
-	       chaotic systems by integrating Bayesian sparse regression and data},
+	       chaotic systems by integrating Bayesian sparse regression and data assimilation},
 	journal={arXiv preprint arXiv:2110.00546},
 	archivePrefix="arXiv",
 	eprint={2110.00546},
