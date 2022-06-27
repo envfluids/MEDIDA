@@ -66,15 +66,18 @@ Note: [Download](https://rice.box.com/s/3a29sejqyc8ou96ncfrddzo7spncwet4), extra
 ](https://scholar.google.com/citations?user=o3_eO6EAAAAJ&hl=en),
 [**Closed-form discovery of structural errors in models of chaotic systems by integrating Bayesian sparse regression and data assimilation.**](https://arxiv.org/abs/2110.00546)
 arXiv:2110.00546.
-([Download](https://arxiv.org/pdf/2110.00546))<details><summary>BibTeX</summary><pre>
-@article{Mojgani_arxiv_2021,
-	author={Mojgani, Rambod, Chattopadhyay, Ashesh, and Hassanzadeh, Pedram},
-	title={Closed-form discovery of structural errors in models of 
-	       chaotic systems by integrating Bayesian sparse regression and data assimilation},
-	journal={arXiv preprint arXiv:2110.00546},
-	archivePrefix="arXiv",
-	eprint={2110.00546},
-	year=2021,
+([Download](https://doi.org/10.1063/5.0091282))<details><summary>BibTeX</summary><pre>
+@article{Mojgani_Chaos_2022,
+author = {Mojgani,Rambod  and Chattopadhyay,Ashesh  and Hassanzadeh,Pedram },
+title = {Discovery of interpretable structural model errors by combining Bayesian sparse regression and data assimilation: {A} chaotic Kuramoto–Sivashinsky test case},
+journal = {Chaos: {A}n Interdisciplinary Journal of Nonlinear Science},
+volume = {32},
+number = {6},
+pages = {061105},
+year = {2022},
+doi = {10.1063/5.0091282},
+URL = {https://doi.org/10.1063/5.0091282},
+eprint = {arXiv:2110.00546}
 }</pre></details>
 
 ## References
