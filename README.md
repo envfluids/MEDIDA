@@ -62,9 +62,9 @@ Note: [Download](https://rice.box.com/s/3a29sejqyc8ou96ncfrddzo7spncwet4), extra
 
 ## Citation
 
-- \[1\] [Mojgani, R.](https://www.rmojgani.com), [Chattopadhyay, A.](https://scholar.google.com/citations?user=wtHkCRIAAAAJ&hl=en) and [Hassanzadeh, P.
+- \[1\] [Mojgani, R.](https://www.rmojgani.com), [Chattopadhyay, A.](https://scholar.google.com/citations?user=wtHkCRIAAAAJ&hl=en), and [Hassanzadeh, P.
 ](https://scholar.google.com/citations?user=o3_eO6EAAAAJ&hl=en),
-[**Closed-form discovery of structural errors in models of chaotic systems by integrating Bayesian sparse regression and data assimilation.**](https://arxiv.org/abs/2110.00546)
+[**Closed-form discovery of structural errors in models of chaotic systems by integrating Bayesian sparse regression and data assimilation.**](https://doi.org/10.1063/5.0091282), Chaos 32, 061105 (2022) 
 arXiv:2110.00546.
 ([Download](https://doi.org/10.1063/5.0091282))<details><summary>BibTeX</summary><pre>
 @article{Mojgani_Chaos_2022,
