@@ -69,7 +69,7 @@ arXiv:2110.00546.
 ([Download](https://aip.scitation.org/doi/pdf/10.1063/5.0091282))<details><summary>BibTeX</summary><pre>
 @article{Mojgani_Chaos_2022,
 author = {Mojgani,Rambod  and Chattopadhyay,Ashesh  and Hassanzadeh,Pedram },
-title = {Discovery of interpretable structural model errors by combining Bayesian sparse regression and data assimilation: {A} chaotic Kuramoto–Sivashinsky test case},
+title = {Discovery of interpretable structural model errors by combining Bayesian sparse regression and data assimilation: {A} chaotic {K}uramoto–{S}ivashinsky test case},
 journal = {Chaos: {A}n Interdisciplinary Journal of Nonlinear Science},
 volume = {32},
 number = {6},
